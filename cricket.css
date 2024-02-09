@@ -1,0 +1,62 @@
+body {
+  
+  text-align: center;
+  background-image: url('background.jpg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+
+
+  
+}
+h1{
+  margin-top: 5px;
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 100%;
+
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: violet;
+  border-radius: 30px;
+  cursor: pointer;
+  color: white;
+}
+
+.choice-image {
+  height: 75px;
+  color: bisque;
+}
+.describe{
+  text-align: left;
+  color: rgb(79, 11, 11);
+}
+#user-move{
+  color:  lightcyan;
+
+}
+#computer-move{
+  color:  lightcyan;
+}
+#result{
+  color:  lightcyan;
+
+}
+#score{
+  color: lightcyan;
+}
+button{
+  background-color: rgb(79, 11, 11);
+  color: white;
+  height: 29px;
+  width: 48px;
+  border-radius: 10px;
+  box-shadow: inset;
+  cursor: pointer;
+}
